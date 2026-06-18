@@ -5,7 +5,7 @@ This project analyzes sales performance using Microsoft Power BI.
 
 ## Dashboard Preview
 
-![Sales Dashboard](Screenshots/sales_dashboard.png)
+![Sales Dashboard](Screenshots/Screenshot 2026-06-02 173908.png)
 
 ## Tools Used
 - Microsoft Power BI
